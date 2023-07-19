@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+# vue-to-do-list
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple task list that allows you to add notes, mark them as completed, and remove them from the task list after completion. The list of tasks is saved after refreshing the page in the browser.
 
-## Recommended IDE Setup
+## Setup
+---
+git clone https://github.com/Serzh-Shpalyutin/vue-to-do-list
+cd vue-to-do-list
+npm install
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
