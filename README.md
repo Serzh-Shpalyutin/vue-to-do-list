@@ -4,7 +4,7 @@ A simple task list that allows you to add notes, mark them as completed, and rem
 
 ## Setup
 ---
-git clone https://github.com/Serzh-Shpalyutin/vue-to-do-list <br>
+git clone https://github.com/Serzh-Shpalyutin/vue-to-do-list.git <br>
 cd vue-to-do-list <br>
 npm install
 
